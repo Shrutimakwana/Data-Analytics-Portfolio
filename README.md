@@ -47,5 +47,5 @@ This project analyzes food sales data for FoodiesHaven to find insights on top-s
 👩‍💻 **Created By:**  
 **Shruti Makwana**  
 📍 Rajkot, India  
-🔗 [LinkedIn](your-linkedin-link)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shrutimakwana)  
 💼 Aspiring Data Analyst skilled in Python | SQL | Power BI | Excel
