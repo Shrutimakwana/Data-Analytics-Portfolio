@@ -40,7 +40,7 @@ This project analyzes food sales data for FoodiesHaven to find insights on top-s
 ---
 
 ### 💡 Dashboard Preview
-![Dashboard](FoodiesHaven_Dashboard.pdf)
+[Dashboard](FoodiesHaven_Dashboard.pdf)
 
 ---
 
